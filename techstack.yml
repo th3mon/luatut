@@ -1,8 +1,8 @@
 repo_name: th3mon/luatut
-report_id: 834dc9ca01916372566a3a4dcd7f11b7
+report_id: e68bdfb505a94e41bbba080aa481a526
 repo_type: Public
-timestamp: '2023-11-09T12:36:49+00:00'
-requested_by: th3mon
+timestamp: '2023-12-14T09:26:20+00:00'
+requested_by: stack-file[bot]
 provider: github
 branch: master
 detected_tools_count: 2
