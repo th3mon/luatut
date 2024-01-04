@@ -1,7 +1,8 @@
 repo_name: th3mon/luatut
-report_id: e68bdfb505a94e41bbba080aa481a526
+report_id: 834dc9ca01916372566a3a4dcd7f11b7
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:20+00:00'
+timestamp: '2024-01-04T14:53:37+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/th3mon/luatut
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,4 +26,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/luatut
   detection_source: Repo Metadata
